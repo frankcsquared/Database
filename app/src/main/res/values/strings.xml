@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">UniEatsDatabase</string>
+    <string name="descriptionText">Name, calories, Carbs, Fats, Proteins</string>
+    <string name="nameText">Enter food name</string>
+    <string name="calorieText">Enter food calories</string>
+    <string name="carbsText">Enter food grams of carbohydrates</string>
+    <string name="fatsText">"Enter food grams of fats "</string>
+    <string name="proteinsText">Enter food grams of proteins</string>
+    <string name="buttonSave">Save</string>
+</resources>
